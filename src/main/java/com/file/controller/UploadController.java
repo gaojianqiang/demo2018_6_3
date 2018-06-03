@@ -24,4 +24,8 @@ public class UploadController {
 		file.transferTo(target);
 		return "cg";
 	}
+	
+	public void add(){
+		
+	}
 }
